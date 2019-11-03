@@ -1,9 +1,10 @@
-#Strings it
-###Q) Can you find the flag in file without running it? You can also find the file in /problems/strings-it_1_7a67382a38fc00751a6b9b29b0872813 on the shell server.
+# Strings it
+Q) Can you find the flag in file without running it? You can also find the file in /problems/strings-it_1_7a67382a38fc00751a6b9b29b0872813 on the shell server.
 
-###A) picoCTF{5tRIng5_1T_0690b2a5}
+A) picoCTF{5tRIng5_1T_0690b2a5}
 
-##Commentary:
+Commentary:
+
 Go to the folder in question, and find the strings file.
 Perform a strings command on the strings file:
 ```
