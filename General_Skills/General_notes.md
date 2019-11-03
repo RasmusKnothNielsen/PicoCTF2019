@@ -1,8 +1,7 @@
 # General Notes
 
 1)
-    In the white room where there is a single computer approximatly in the middle, 
-    there is something resembling morse code in the north east corner of the room.
+    In the General Skills room there is something resembling morse code in the north east corner of the room.
 
     The morse code is the following:
     ```
