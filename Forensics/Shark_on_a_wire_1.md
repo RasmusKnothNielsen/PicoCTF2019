@@ -9,7 +9,7 @@ Commentary:
 Upen downloading the .pcap file, I open it with Wireshark, to get an estimation of the scope.
 
 There is alot, so we have to use some automated tool to extract the flag.
-The following syntax does just that for us:
+The following terminal syntax does just that for us:
 
 ```
 PCAP=capture.pcap; END=$(tshark -r $PCAP -T fields -e udp.stream | sort -n | 
